@@ -1,0 +1,2 @@
+just some demo text. This should get converted to uppercase if everything works
+properly. Inspect "output" directory for the results.
