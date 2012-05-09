@@ -1,0 +1,32 @@
+{
+    "name": "ioscript.js",
+    "description": "ioscript.js makes it easy to write IO scripts",
+    "author": "Juho Vepsalainen <bebraw@gmail.com>",
+    "version": "0.1.0",
+
+    "dependencies": {
+        "commander": ">= 0.5.2"
+    },
+
+    "main": "./lib/ioscript.js",
+
+    "directories": {"lib": "./lib"},
+
+    "repository": {
+        "type": "git",
+        "url": "https://bebraw@github.com/bebraw/ioscript.js.git"
+    },
+
+    "homepage": "https://github.com/bebraw/ioscript.js",
+
+    "bugs": {
+        "url": "https://github.com/bebraw/ioscript.js/issues"
+    },
+
+    "keywords": ["utility"],
+
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://github.com/bebraw/ioscript.js/blob/master/LICENSE"
+    }]
+}
