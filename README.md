@@ -7,6 +7,8 @@ By default it provides the script these parameters:
 * -i, --input <input> - The input (either file or directory)
 * -o, --output <output> - The output (either file or directory)
 * -s, --silent - The script remains silent (no visual output)
+* -h, --help - Shows help
+* -V, --version - Shows version
 
 It is possible to define your own parameters if you want to.
 
