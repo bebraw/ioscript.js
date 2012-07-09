@@ -6,7 +6,7 @@
 
     "dependencies": {
         "commander": ">= 0.5.2",
-        "funkit": ">= 0.1.7"
+        "funkit": "== 0.3.2"
     },
 
     "main": "./lib/ioscript.js",
