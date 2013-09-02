@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 var fs = require('fs');
-var ioscript = require('../lib/ioscript');
+var ioscript = require('../');
 
 ioscript({
     version: '0.1.0',
