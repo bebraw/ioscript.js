@@ -2,7 +2,7 @@
   "name": "ioscript.js",
   "description": "ioscript.js makes it easy to write IO scripts",
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "dependencies": {
     "commander": "2.0.0",
     "funkit": "0.7.7",
